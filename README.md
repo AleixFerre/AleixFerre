@@ -7,9 +7,10 @@
 
 ### Let's be connected:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="CatalaHD | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="CatalaHD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CatalaHD | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/itch-dot-io.svg" />][itch]
 
 <br />
 
@@ -27,3 +28,4 @@
 [p5]: https://p5js.org/
 [processing]: https://processing.org/
 [vscode]: https://code.visualstudio.com/
+[itch]: https://aleixferre.itch.io/
