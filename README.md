@@ -20,7 +20,7 @@
 - I'm also using [p5.js][p5] and [Processing][processing] to create gorgeus animations that you can check out!
 
 <img align="left" alt="CatalaHD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CatalaHD&show_icons=true&hide_border=true" />
-<img align="left" alt="CatalaHD's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatalaHD" />
+<img align="left" alt="CatalaHD's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatalaHD&show_icons=true&hide_border=true" />
 
 [website]: https://catalahd.github.io/
 [twitter]: https://twitter.com/CatalaHD
