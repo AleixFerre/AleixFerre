@@ -1,6 +1,6 @@
 ### Hi there, I'm Aleix - aka [CatalaHD][website] 👋
 
-## I'm a Studient, Software and Game Developer!
+## I'm a Student, Software and Game Developer!
 - 🌱 I've started programming 3 to 4 years ago and I love it!
 - 🎮 I love playing and programming videogames.
 - ⚡ Fun fact: I love music and my favourite sond right now is [this one 😊](https://www.youtube.com/watch?v=IVH6Gl7W0hI)
