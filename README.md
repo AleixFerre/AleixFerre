@@ -1,7 +1,5 @@
 # Aleix Ferré
 
-<img src="https://github.com/AleixFerre.png" alt="Aleix Ferré" width="200" />
-
 ### 🎮 Game Programmer and Designer & Senior Fullstack Developer
 
 🌍 Based in Girona | 💻 Working Remotely
