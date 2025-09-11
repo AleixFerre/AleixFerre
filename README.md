@@ -4,7 +4,7 @@
 
 🌍 Based in Girona | 💻 Working Remotely
 
-🔗 [Website](https://aleixferre.github.io) | [Yuuko Games Studio](https://yuukogamesstudio.github.io/)
+🔗 [Website](https://www.aleixferre.com) | [Yuuko Games Studio](https://www.yuukogames.com/)
 
 ---
 
@@ -29,23 +29,17 @@ I'm working on the new game from Yuuko Games, news soon!
 
 ## 📌 Featured Projects
 
-### [YuukoGamesStudio/yuukogamesstudio.github.io](https://github.com/AleixFerre/YuukoGamesStudio/yuukogamesstudio.github.io)
-> TypeScript project
+### [Yuuko Games Website](https://github.com/YuukoGamesStudio/yuukogamesstudio.github.io)
+> The Official Yuuko Games Website is open source! You can check it out in here!
 
 - Showcases game development projects
 
-### [totfet-web](https://github.com/AleixFerre/totfet-web)
-> TypeScript PWA project
+### [The Forbidden Door](https://yuukogames.itch.io/the-forbidden-door)
+> A spine-chilling horror game. Find misteries and resolve puzzles to open The Forbidden Door.
 
-- Progressive Web App
-- Focus on performance and offline capabilities
-
-
-### [catabot](https://github.com/AleixFerre/catabot)
-> Discord bot in Catalan (discontinued)
-
-- Built with JavaScript
-- 12 stars, 3 forks
+- Game Design
+- Level Design
+- Unity
 
 ---
 
@@ -57,8 +51,8 @@ I'm working on the new game from Yuuko Games, news soon!
 
 ## 📬 Get in Touch
 
-🔗 [Portfolio](https://aleixferre.github.io)
+🔗 [Portfolio](https://aleixferre.com)
 
-🔗 [Yuuko Games Studio](https://yuukogamesstudio.github.io/)
+🔗 [Yuuko Games Studio](https://yuukogames.com)
 
 
